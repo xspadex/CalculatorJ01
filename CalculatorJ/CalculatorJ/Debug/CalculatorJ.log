@@ -1,0 +1,14 @@
+﻿  CalculatorJ.cpp
+d:\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math.h(967): warning C4005: “OVERFLOW”: 宏重定义
+  c:\users\xspadex\source\repos\calculatorj\calculatorj\pch.h(19): note: 参见“OVERFLOW”的前一个定义
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(417): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(424): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(428): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(429): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(434): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(437): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(443): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(454): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(461): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(466): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+  CalculatorJ.vcxproj -> C:\Users\xspadex\source\repos\CalculatorJ\Debug\CalculatorJ.exe
