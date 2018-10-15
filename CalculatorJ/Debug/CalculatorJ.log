@@ -1,0 +1,20 @@
+﻿  CalculatorJ.cpp
+d:\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math.h(967): warning C4005: “OVERFLOW”: 宏重定义
+  c:\users\xspadex\source\repos\calculatorj\calculatorj\pch.h(19): note: 参见“OVERFLOW”的前一个定义
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(446): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(450): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(451): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(456): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(459): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(465): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(483): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(488): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(559): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(563): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(564): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(569): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(572): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(578): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(596): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+c:\users\xspadex\source\repos\calculatorj\calculatorj\calculatorj.cpp(601): warning C4244: “参数”: 从“double”转换到“short”，可能丢失数据
+  CalculatorJ.vcxproj -> C:\Users\xspadex\source\repos\CalculatorJ\Debug\CalculatorJ.exe
